@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nate Dunne
-- 👀 I’m interested in Cloud cybersecurity. 
-- 🌱 I’m currently learning how to implement Azure security controls to increase the security posture of an organisations cloud apps/use
+- 👀 I’m a cybersecurity professional, currently focusing on Cloud cybersecurity. 
+- 🌱 I’m currently learning how to implement Azure Cloud architecture
 - 📫 How to reach me - nate.dunne360@gmail.com 
 
 <!---
