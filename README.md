@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to implement Azure Cloud architecture
 - 📫 How to reach me - nate.dunne360@gmail.com 
 
-Certifications:
+**Certifications:**
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-SC%3A900%20Microsoft%20Certified%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
