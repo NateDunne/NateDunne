@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nate Dunne
 - 👀 I am a Cybersecurity Professional with 2 years of experience in cybersecurity with a passion to solve complex problems and improve my skillset.
-- 🌱 I’m currently learning how to implement Azure Cloud architecture
-- 📫 How to reach me - nate.dunne360@gmail.com 
+- 🌱 I’m currently learning how to automate using Powershell
 
 **Certifications:**
 
